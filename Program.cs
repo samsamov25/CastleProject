@@ -7,7 +7,7 @@ namespace CastleProject
         static void Main(string[] args)
         {
             Console.WriteLine("It is my castle!");
-            Console.WriteLine("It is my castle 2!");
+            Console.WriteLine("It is my castle 2!");    
         }
     }
 }
