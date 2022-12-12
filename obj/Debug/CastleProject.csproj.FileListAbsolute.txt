@@ -1,7 +1,0 @@
-D:\GitProjects\CastleProject\bin\Debug\CastleProject.exe.config
-D:\GitProjects\CastleProject\bin\Debug\CastleProject.exe
-D:\GitProjects\CastleProject\bin\Debug\CastleProject.pdb
-D:\GitProjects\CastleProject\obj\Debug\CastleProject.csproj.AssemblyReference.cache
-D:\GitProjects\CastleProject\obj\Debug\CastleProject.csproj.CoreCompileInputs.cache
-D:\GitProjects\CastleProject\obj\Debug\CastleProject.exe
-D:\GitProjects\CastleProject\obj\Debug\CastleProject.pdb
